@@ -11,7 +11,7 @@ Python | C++ | HTML | CSS | JavaScript |
 <a href="mailto:rishabhrathore055@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" sr c= "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
+[<img height="30" src= "https://img.shields.io/badge/Codechef-black.svg?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
 <br />
 <hr />
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
