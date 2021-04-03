@@ -6,7 +6,7 @@ Python | C++ | HTML | CSS | JavaScript |
   <b><i>Let's connect! Find me on the web.</i></b>
   
   
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](www.twitter.com/rishabh_055)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 <a href="mailto:rishabhrathore055@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -52,3 +52,9 @@ Python | C++ | HTML | CSS | JavaScript |
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&show_icons=true&locale=en" alt="rishabhrathore055" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&" alt="rishabhrathore055" /></p>
+
+[twitter]: https://twitter.com/rishabh_055
+[youtube]: https://youtube.com/
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/rishabhrathore
+[Facebook]: https://www.facebook.com/rishi.rishabh04
