@@ -12,6 +12,7 @@ Python | C++ | HTML | CSS | JavaScript |
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src= "https://img.shields.io/badge/Codechef-black.svg?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
+[<img height="30" src= "https://img.shields.io/badge/instagram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 <br />
 <hr />
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
@@ -50,3 +51,4 @@ Python | C++ | HTML | CSS | JavaScript |
 [linkedin]: https://www.linkedin.com/in/rishabhrathore
 [Facebook]: https://www.facebook.com/rishi.rishabh04
 [Codechef]: https://www.codechef.com/users/rishabh_05
+[Instagram]: https://instagram.com/_rishu_007
