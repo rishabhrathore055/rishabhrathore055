@@ -50,5 +50,5 @@ Python | C++ | HTML | CSS | JavaScript |
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/rishabhrathore
 [Facebook]: https://www.facebook.com/rishi.rishabh04
-[Codechef]: https://www.codechef.com/users/rishabh_05
+[Codechef]: https://www.codechef.com/users/rishabh_055
 [Instagram]: https://instagram.com/_rishu_007
