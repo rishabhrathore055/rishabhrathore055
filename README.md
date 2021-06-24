@@ -14,7 +14,7 @@ Python | C++ | HTML | CSS | JavaScript |
 [<img height="30" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img height="30" src= "https://img.shields.io/badge/Codechef-black.svg?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
 [<img height="30" src= "https://img.shields.io/badge/GeeksforGeeks-00EA64?&style=for-the-badge&logo=GeeksforGeeks&logoColor=White">][GeeksforGeeks]
-[<img height="30" src= "https://img.shields.io/badge/HackerRank-000000?&style=for-the-badge&logo=HackerRank&logoColor=black">][Hackerrank]
+[<img height="30" src= "https://img.shields.io/badge/HackerRank-000000?&style=for-the-badge&logo=HackerRank&logoColor=white">][Hackerrank]
 
 
 <br />
