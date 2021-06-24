@@ -12,7 +12,7 @@ Python | C++ | HTML | CSS | JavaScript |
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
-[<img height="30" src= "https://img.shields.io/badge/Codechef-black.svg?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
+[<img height="30" src= "https://img.shields.io/badge/Codechef-5B4638?&style=for-the-badge&logo=codechef&logoColor=white">][Codechef]
 [<img height="30" src= "https://img.shields.io/badge/GeeksforGeeks-00EA64?&style=for-the-badge&logo=GeeksforGeeks&logoColor=White">][GeeksforGeeks]
 [<img height="30" src= "https://img.shields.io/badge/HackerRank-000000?&style=for-the-badge&logo=HackerRank&logoColor=white">][Hackerrank]
 
