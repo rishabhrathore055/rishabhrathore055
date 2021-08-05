@@ -29,7 +29,6 @@ Python | C++ | HTML | CSS | JavaScript |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrathore055&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrathore055" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhrathore055" alt="rishabhrathore055" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science Courses**
 
@@ -60,11 +59,11 @@ Python | C++ | HTML | CSS | JavaScript |
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&show_icons=true&locale=en" alt="rishabhrathore055" /></p>
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&show_icons=true&locale=en" alt="rishabhrathore055" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&" alt="rishabhrathore055" /></p>
+
+
 
 [twitter]: https://twitter.com/rishabh_055
 [youtube]:  https://youtube.com/channel/UCyQxG1NPrjhMtgFqlm8k9Cw
