@@ -63,7 +63,7 @@ Python | C++ | HTML | CSS | JavaScript |
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&" alt="rishabhrathore055" /></p>
 
-
+![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
 
 [twitter]: https://twitter.com/rishabh_055
 [youtube]:  https://youtube.com/channel/UCyQxG1NPrjhMtgFqlm8k9Cw
