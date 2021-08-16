@@ -25,7 +25,9 @@ Python | C++ | HTML | CSS | JavaScript |
 <br />
 <hr />
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
-<h2 align="center">A Fast Learner, Frontend Developer, Data Science</h2>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Data+Science+ML+Enthusiast;Open+Source+Contributor;Frontend+Developer)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrathore055&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrathore055" /> </p>
 
@@ -57,11 +59,11 @@ Python | C++ | HTML | CSS | JavaScript |
 <img height="35" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&theme=github&show_icons=true&hide_border=true&count_private=true" alt="rishabhrathore055" /></p>
 
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&show_icons=true&locale=en" alt="rishabhrathore055" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&" alt="rishabhrathore055" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&theme=github" alt="rishabhrathore055" /></p> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
 
