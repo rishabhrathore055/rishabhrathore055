@@ -59,11 +59,11 @@ Python | C++ | HTML | CSS | JavaScript |
 <img height="35" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&theme=github&show_icons=true&hide_border=true&count_private=true" alt="rishabhrathore055" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rishabhrathore055" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&theme=default&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&theme=github" alt="rishabhrathore055" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&theme=default" alt="rishabhrathore055" /></p> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
 
