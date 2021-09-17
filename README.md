@@ -32,7 +32,7 @@ Python | C++ | HTML | CSS | JavaScript |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrathore055&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrathore055" /> </p>
 
 
-- 🔭 I’m currently working on **Data Science Courses**
+- 🔭 I’m currently working on **Data Science Conpects**
 
 - 🌱 I’m currently learning **SQL, Java, Data Visulization**
 
