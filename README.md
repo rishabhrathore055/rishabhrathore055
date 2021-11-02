@@ -69,9 +69,14 @@ Python | C++ | HTML | CSS | JavaScript |
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff" alt="rishabhrathore055" /></p> 
+<p align = "center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055" alt="rishabhrathore055" /></p> 
+<hr>
+
+<p align = "center">
 
 ![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
+</p>
 
 [twitter]: https://twitter.com/rishabh_055
 [youtube]:  https://youtube.com/channel/UCyQxG1NPrjhMtgFqlm8k9Cw
