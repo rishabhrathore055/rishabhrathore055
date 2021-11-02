@@ -1,6 +1,3 @@
-# [Rishabh](https://sites.google.com/view/rishabhrathore/home)
-Python | C++ | HTML | CSS | JavaScript |
-
 ![alt text](https://github.com/rishabhrathore055/rishabhrathore055/blob/main/Cover.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
