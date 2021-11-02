@@ -29,9 +29,6 @@ Python | C++ | HTML | CSS | JavaScript |
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Data+Science+ML+Enthusiast;Open+Source+Contributor;Frontend+Developer)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrathore055&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrathore055" /> </p>
-
-
 - 🔭 I’m currently working on **Data Science Conpects**
 
 - 🌱 I’m currently learning **SQL, Java, Data Visulization**
@@ -42,7 +39,7 @@ Python | C++ | HTML | CSS | JavaScript |
 
 - 💬 Ask me about **Web-Devlopment, Python, Data Science**
 
-- 📫 How to reach me **Rishabhrathore055@gmail.com**
+- 📫 Reach me [here](mailto:Rishabhrathore055@gmail.com)
 
 - ⚡ Fun fact **. I have a really big heart, and I empathize with others very easily.**
 
@@ -59,11 +56,20 @@ Python | C++ | HTML | CSS | JavaScript |
 <img height="35" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhrathore055&theme=default&show_icons=true&hide_border=true&count_private=true" alt="rishabhrathore055" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhrathore055&theme=default&show_icons=true&locale=en&layout=compact" alt="rishabhrathore055"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&theme=default" alt="rishabhrathore055" /></p> 
+<hr>
+
+<p align = "center">
+  <i><b>GitHub Stats:octocat::</b></i><br><br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <br><br>
+  <img src = "https://komarev.com/ghpvc/?username=rishabhrathore055" alt="lostgirljourney" />
+</p>
+
+<hr>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff" alt="rishabhrathore055" /></p> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
 
