@@ -1,4 +1,4 @@
-![alt text](https://github.com/rishabhrathore055/rishabhrathore055/blob/main/Cover.png)
+![alt text](assets/Cover.png)
 
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
 
