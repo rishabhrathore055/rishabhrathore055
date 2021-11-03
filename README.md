@@ -1,12 +1,10 @@
-![alt text](https://github.com/rishabhrathore055/rishabhrathore055/blob/main/Cover.png)
-
+![alt text](assets\Cover.png)
+<br>
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
 
 - 🔭 I’m currently working on **Data Science Conpects**
 
-- 🌱 I’m currently learning **SQL, Java, Data Visulization**
-
-- 🤝 I’m looking for help with **Frontend Development**
+- 🌱 I’m currently learning **Data Analytics, SQL, Data Structure.**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rishabhrathore055)
 
@@ -45,21 +43,27 @@
   </a>
 </p>
 
-<hr />
+<hr>
 
+<p align="center">
+<i><b>Languages and Tools:</b></i> 
+<br><br>
+ <img align="center" src="assets/languages/html-5.png" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/css-3.png" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/javascript.png" width="38px" />&nbsp;
+  <img align="center" src="assets/languages/python.png" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/c.png" width="45px" />&nbsp;
+  <img align="center" src="assets/languages/c++.png" width="50px" />&nbsp;
+  <br><br>
+  <img align="center" src="assets/tools/vscode.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/git.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/github.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/excel.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/jupyter.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/gcolab.png" width="50px" />&nbsp;
+  <img align="center" src="assets/tools/figma.png" width="45px" />&nbsp;
+  <img align="center" src="assets/tools/illustrator.png" width="50px" />&nbsp;
 
-
-<p align = "center">
-<h3 align="center">Languages and Tools:</h3>
-<p><img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img height="35" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 </p>
 <hr>
 
@@ -69,12 +73,8 @@
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=rishabhrathore055" alt="lostgirljourney" />
 </p>
-
 <hr>
 
-<p align = "center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055" alt="rishabhrathore055" /></p> 
-<hr>
 
 <p align = "center">
 
