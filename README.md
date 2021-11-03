@@ -45,9 +45,9 @@
 <p align="center">
 <i><b>Languages and Tools:</b></i> 
 <br><br>
- <img align="center" src="assets/languages/html-5.png" width="50px" />&nbsp;
+ <img align="center" src="assets/languages/html5.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/css-3.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/javascript.png" width="38px" />&nbsp;
+  <img align="center" src="assets/languages/javascript.png" width="45px" />&nbsp;
   <img align="center" src="assets/languages/python.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/c.png" width="45px" />&nbsp;
   <img align="center" src="assets/languages/c++.png" width="50px" />&nbsp;
