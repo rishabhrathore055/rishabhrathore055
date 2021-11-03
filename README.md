@@ -13,7 +13,6 @@
 - 📫 Reach me [here](mailto:Rishabhrathore055@gmail.com)
 
 - ⚡ Fun fact **. I have a really big heart, and I empathize with others very easily.**
-
 <hr>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -42,9 +41,7 @@
     <img align="center" src="assets/handles/dev.png" alt="DEV Profile" width="50px">&nbsp;
   </a>
 </p>
-
 <hr>
-
 <p align="center">
 <i><b>Languages and Tools:</b></i> 
 <br><br>
@@ -63,10 +60,8 @@
   <img align="center" src="assets/tools/gcolab.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/figma.png" width="45px" />&nbsp;
   <img align="center" src="assets/tools/illustrator.png" width="50px" />&nbsp;
-
 </p>
 <hr>
-
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
@@ -74,8 +69,6 @@
   <img src = "https://komarev.com/ghpvc/?username=rishabhrathore055" alt="lostgirljourney" />
 </p>
 <hr>
-
-
 <p align = "center">
 
 ![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
