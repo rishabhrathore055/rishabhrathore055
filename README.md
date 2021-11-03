@@ -51,14 +51,12 @@
   <img align="center" src="assets/languages/javascript.png" width="45px" />&nbsp;
   <img align="center" src="assets/languages/python.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/c.png" width="45px" />&nbsp;
-  <img align="center" src="assets/languages/c++.png" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/cpp.svg" width="50px" />&nbsp;
   <br><br>
   <img align="center" src="assets/tools/vscode.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/git.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/excel.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/jupyter.png" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/gcolab.png" width="50px" />&nbsp;
   <img align="center" src="assets/tools/figma.png" width="45px" />&nbsp;
   <img align="center" src="assets/tools/illustrator.png" width="50px" />&nbsp;
 </p>
