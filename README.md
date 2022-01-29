@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/rishi.rishabh04">
     <img align="center" alt="Rishabh @facebook" width="50px" src="assets/handles/facebook.png" />&nbsp;
   </a>
-  <a href="https://https://youtube.com/channel/UCyQxG1NPrjhMtgFqlm8k9Cw">
+  <a href="https://www.youtube.com/channel/UCyQxG1NPrjhMtgFqlm8k9Cw">
     <img align="center" alt="Rishabh @Youtube" width="50px" src="assets/handles/youtube.png" />&nbsp;
   </a>
   <a href="https://dev.to/rishabh055">
