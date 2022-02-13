@@ -2,18 +2,19 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
+<img align="right" height= "200" rou src="assets/giphy.gif"/>
 
-- 🔭 I’m currently working on **Data Science Conpects**
+- 🔭 I’m currently working on **Deep Learning Project**
 
-- 🌱 I’m currently learning **Data Analytics, SQL, Data Structure.**
+- 🌱 I’m currently learning **ML, Deep learning, Analytics, SQL, Data Structure.**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rishabhrathore055)
 
-- 💬 Ask me about **Web-Devlopment, Python, Data Science**
+- 💬 Ask me about **Web-Devlopment, Python, Data Science, ML, Open Source**
 
 - 📫 Reach me [here](mailto:Rishabhrathore055@gmail.com)
 
-- ⚡ Fun fact **. I have a really big heart, and I empathize with others very easily.**
+- ⚡ Fun fact **I have a really big heart, and I empathize with others very easily.**
 <hr>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
