@@ -2,7 +2,7 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
-<img align="right" height= "200" rou src="assets/giphy.gif"/>
+<!-- <img align="right" height= "200" rou src="assets/giphy.gif"/> -->
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
