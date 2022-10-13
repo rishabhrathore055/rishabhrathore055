@@ -1,7 +1,7 @@
 ![cover](assets/Cover.png)
 
 <br>
-<h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
+<h1 align="center">Hello👋 Wonderful People, Rishabh Rathore here.</h1>
 <!-- <img align="right" height= "200" rou src="assets/giphy.gif"/> -->
 
 - 🔭 I’m currently working on **Deep Learning Project**
