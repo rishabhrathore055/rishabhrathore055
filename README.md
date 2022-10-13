@@ -1,4 +1,4 @@
-![cover](assets/Cover.png)
+![cover](assets/cover.png)
 
 <br>
 <h1 align="center">Hi 👋, I'm Rishabh Rathore</h1>
