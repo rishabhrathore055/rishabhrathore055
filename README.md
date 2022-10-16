@@ -1,8 +1,14 @@
 ![cover](assets/Cover.png)
-
+<img src = "https://komarev.com/ghpvc/?username=rishabhrathore055&label=PROFILE+VIEWS"
+alt="rishabhrathore055"/>
+<div align="center">
 <br>
-<h1 align="center">Hello👋 Wonderful People, Rishabh Rathore here.</h1>
-<!-- <img align="right" height= "200" rou src="assets/giphy.gif"/> -->
+<h1 >Hello👋 Wonderful People, Rishabh Rathore here.</h1>
+<a href="https://www.twitter.com/rishabh_055" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+</div> 
+</div> 
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
@@ -67,8 +73,7 @@
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-  <br><br>
-  <img src = "https://komarev.com/ghpvc/?username=rishabhrathore055" alt="lostgirljourney" />
+  <br>
 </p>
 <hr>
 <p align = "center">
