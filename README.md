@@ -73,6 +73,7 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=rishabhrathore055&bg_color=-40,5f7ed9,61A9A6,C5D6B5,98BE85&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <a href="http://www.github.com/rishabhrathore055"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <br>
 </p>
 <hr>
