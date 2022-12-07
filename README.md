@@ -10,9 +10,9 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 </div> 
 </div> 
 
-- 🔭 I’m currently working on **Deep Learning Project**
+- 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
 
-- 🌱 I’m currently learning **ML, Deep learning, Analytics, SQL, Data Structure.**
+- 🌱 I’m currently learning ** Data Structures, Deep learning, and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rishabhrathore055)
 
