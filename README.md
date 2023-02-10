@@ -12,11 +12,11 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 
 - 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
 
-- 🌱 I’m currently learning ** Data Structures, Deep learning, and Data Analytics**
+- 🌱 I’m currently learning **Data Structures, Deep learning, and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rishabhrathore055)
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Web-Devlopment, Open Source**
+- 💬 Ask me about **Python, Data Science, Data Analytics, Machine Learning, Web-Devlopment, Open Source**
 
 - 📫 Reach me [here](mailto:Rishabhrathore055@gmail.com)
 
