@@ -18,7 +18,7 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 
 - 💬 Ask me about **Python, Data Science, Data Analytics, Machine Learning, Web-Devlopment, Open Source**
 
-- 📫 Reach me [here](mailto:Rishabhrathore055@gmail.com)
+- 📫 Reach me [@rishabhrathore055@gmail.com](mailto:Rishabhrathore055@gmail.com)
 
 - ⚡ Fun fact **I have a really big heart, and I empathize with others very easily.**
 <hr>
