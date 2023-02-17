@@ -25,9 +25,10 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 </p>
+
 <p align = "center">
      <br>
-  <a href="mailto:falgunisarkar526@gmail.com">
+  <a href="mailto:rishabhrathore055@gmail.com">
     <img align="center" alt="Rishabh @Mail" width="50px" src="assets/handles/gmail.png" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/Rishabhrathore">
@@ -49,6 +50,7 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
     <img align="center" src="assets/handles/dev.png" alt="DEV Profile" width="50px">&nbsp;
   </a>
 </p>
+
 <hr>
 <p align="center">
 <i><b>Languages and Tools:</b></i> 
