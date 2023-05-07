@@ -1,15 +1,12 @@
 ![cover](assets/Cover.png)
-<img src = "https://komarev.com/ghpvc/?username=rishabhrathore055&label=PROFILE+VIEWS"
-alt="rishabhrathore055"/>
+<img src ="https://komarev.com/ghpvc/?username=rishabhrathore055&label=PROFILE+VIEWS">
 <div align="center">
 <br>
 <h1 >Hello👋 Wonderful People, Rishabh Rathore here.</h1>
-<a href="https://www.twitter.com/rishabh_055" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-</div> 
-</div> 
-<div align="left">
+<a href="https://www.twitter.com/rishabh_055" target="_blank" rel="noreferrer">
+<img
+src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
 
 <h3>A passionate data scientist and machine learning enthusiast. I am a Bachelor of Technology in Computer Science and Engineering from Indore Institute of Science and Technology. I have expertise in Python, R, C/C++, Java, and MySQL, and am skilled in data science, machine learning, NLP, data analysis, and visualization.</h3>
 </div>
