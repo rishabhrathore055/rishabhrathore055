@@ -9,19 +9,27 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 /></a>
 </div> 
 </div> 
+<div align="left">
 
-- 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
+<h3>A passionate data scientist and machine learning enthusiast. I am a Bachelor of Technology in Computer Science and Engineering from Indore Institute of Science and Technology. I have expertise in Python, R, C/C++, Java, and MySQL, and am skilled in data science, machine learning, NLP, data analysis, and visualization.</h3>
+</div>
 
-- 🌱 I’m currently learning **Data Structures, Deep learning, and Natural Language Processing**
+## Experience
+### Research Intern, Indian Institute Of Technology–Patna 
+  April 2022– September 2022
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/rishabhrathore055)
+- Used "YOLO" (you only look once) algorithms for image localization and object detection for vintage handwritten documents.
+- Curated a multi-lingual image collection of over 1,000 images in 20 hours of focused effort.
+- Manually labeled over 1,000 images, gaining hands-on experience in Image Localization, Segmentation, Processing, and Deep Learning in 80 hours.
+### Python Intern, DevInCept
+  July 2021– August 2021
 
-- 💬 Ask me about **Python, Data Science, Data Analytics, Machine Learning, Web-Devlopment, Open Source**
+- Utilized Pandas, NumPy, Matplotlib, and Scikit-Learn to instruct over 200+ students in the creation of effective data visualizations for dictionaries, lines, and other plots.
+- As a project, we built the weather web application, which provides details on the current weather in a city, including temperature, origin country, and other information.
+Shared the material with folks later by using Git (a distributed version control system).
 
-- 📫 Reach me [@rishabhrathore055@gmail.com](mailto:Rishabhrathore055@gmail.com)
-
-- ⚡ Fun fact **I have a really big heart, and I empathize with others very easily.**
 <hr>
+
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 </p>
