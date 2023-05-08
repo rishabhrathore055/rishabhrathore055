@@ -8,7 +8,7 @@
 src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 
-<h3>A passionate data scientist and machine learning enthusiast. I am a Bachelor of Technology in Computer Science and Engineering from Indore Institute of Science and Technology. I have expertise in Python, R, C/C++, Java, and MySQL, and am skilled in data science, machine learning, NLP, data analysis, and visualization.</h3>
+<h3>A passionate data scientist and machine learning enthusiast. I am a Bachelor of Technology in Computer Science and Engineering from Indore Institute of Science and Technology. I have expertise in Python, C/C++, and MySQL, and am skilled in data science, machine learning, data analysis, and visualization.</h3>
 </div>
 
 ## Experience
