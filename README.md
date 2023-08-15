@@ -12,8 +12,13 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 </div>
 
 ## Experience
+### Summer Research Intern, Indian Institute Of Technology–Patna 
+  June 2023–July 2023
+
+- Conducted data collection, annotation, and ground truthing for the research project funded by the SERB Govt of India.
+- Applied deep learning algorithms to understand data, accuracy, algorithms, and results
 ### Research Intern, Indian Institute Of Technology–Patna 
-  April 2022– September 2022
+  April 2022–September 2022
 
 - Used "YOLO" (you only look once) algorithms for image localization and object detection for vintage handwritten documents.
 - Curated a multi-lingual image collection of over 1,000 images in 20 hours of focused effort.
