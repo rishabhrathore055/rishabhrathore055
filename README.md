@@ -12,6 +12,12 @@ src="https://img.shields.io/twitter/follow/rishabh_055?logo=twitter&style=for-th
 </div>
 
 ## Experience
+
+### Web Development and NLP Intern, Symmulate Labs
+  Sep 2023 - Present
+  - Developed responsive web applications using React for front-end, focusing on UI design and state management.
+  - Implemented NLP tasks in Python with NLTK, including text preprocessing, model building, and data visualization.
+    
 ### Summer Research Intern, Indian Institute Of Technology–Patna 
   June 2023–July 2023
 
