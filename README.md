@@ -94,10 +94,5 @@ Shared the material with folks later by using Git (a distributed version control
   <a href="http://www.github.com/rishabhrathore055"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhrathore055&stroke=ffffff&background=179f&ring=98BE85&fire=891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <br>
 </p>
-<hr>
-<p align = "center">
-
-![](https://activity-graph.herokuapp.com/graph?username=rishabhrathore055&theme=github)
-</p>
 
 
